@@ -2,5 +2,5 @@
 
 this project was created from local system.
 
-i am learning github
+i am learning github.
 
